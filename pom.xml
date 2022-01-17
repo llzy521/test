@@ -11,7 +11,6 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <hutool.version>5.7.19</hutool.version>
         <okhttp3.version>4.9.0</okhttp3.version>
         <jUnit.version>5.8.2</jUnit.version>
         <fastjson.version>1.2.76</fastjson.version>
@@ -29,11 +28,6 @@
         </dependencies>
     </dependencyManagement>
     <dependencies>
-        <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-all</artifactId>
-            <version>${hutool.version}</version>
-        </dependency>
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
