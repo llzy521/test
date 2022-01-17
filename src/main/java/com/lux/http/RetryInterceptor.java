@@ -13,7 +13,7 @@ import java.io.IOException;
  * @author leolu
  * @title: RetryInterceptor
  * @projectName test
- * @description: TODO
+ * @description: interceptor for retry
  * @date 2022/1/164:43 PM
  */
 public class RetryInterceptor implements Interceptor {

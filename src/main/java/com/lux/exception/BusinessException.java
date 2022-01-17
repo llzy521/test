@@ -4,7 +4,7 @@ package com.lux.exception;
  * @author leolu
  * @title: BusinessException
  * @projectName test
- * @description: TODO
+ * @description: Business runtime exception
  * @date 2022/1/164:18 PM
  */
 public class BusinessException extends RuntimeException{

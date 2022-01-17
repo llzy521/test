@@ -21,7 +21,7 @@ import java.util.Optional;
  * @author leolu
  * @title: RemoteDataTest
  * @projectName test
- * @description: TODO
+ * @description: Remote interface related tests
  * @date 2022/1/14 3:02 PM
  */
 public class RemoteDataTest {

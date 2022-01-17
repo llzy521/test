@@ -25,7 +25,7 @@ import java.util.concurrent.Future;
  * @author leolu
  * @title: WeatherInfoTest
  * @projectName test
- * @description: TODO
+ * @description: Weather interface related tests
  * @date 2022/1/144:24 PM
  */
 public class WeatherInfoTest {

@@ -4,7 +4,7 @@ package com.lux.constant;
  * @author leolu
  * @title: WeatherUrl
  * @projectName test
- * @description: TODO
+ * @description: Weather Urls constant
  * @date 2022/1/142:06 PM
  */
 public class WeatherUrls {

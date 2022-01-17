@@ -9,7 +9,7 @@ import java.util.Optional;
  * @author leolu
  * @title: IWeatherInfoService
  * @projectName test
- * @description: TODO
+ * @description: interface of WeatherInfo Service
  * @date 2022/1/144:12 PM
  */
 public interface IWeatherInfoService {

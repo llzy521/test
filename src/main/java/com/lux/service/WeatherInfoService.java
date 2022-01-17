@@ -9,7 +9,7 @@ import java.util.Optional;
 import java.util.concurrent.Semaphore;
 
 /**
- * implementation of intercece IWeatherInfoService
+ * implementation of interface IWeatherInfoService
  * @author leolu
  * @title: WeatherInfoService
  * @projectName test
